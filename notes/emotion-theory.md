@@ -173,6 +173,19 @@ Papers claiming they have found biomarkers for emotion:
 
 "We recommend that researchers routinely compare supervised and unsupervised approaches on their data and report both or at least use multiple supervised classification algorithms or feature selection methods on the same dataset to explore implications of methodological decisions on their solutions."
 
+# Affect as a Psychological Primitive
+
+Barret and Bliss-Moreau (2009)
+
+"In modern psychological usage, ‘‘affect’’ refers to the mental counterpart of internal bodily representations associated with emotions, actions that involve some degree of motivation, intensity, and force, or even personality dispositions."
+
+"Wundt described momentary affective states as having three independent qualities—pleasantness/unpleasantness (now called hedonic valence), arousing/subduing (arousal), and strain/relaxation (intensity). According to Wundt, these properties were not ingredients that make an affective response, because affect itself is irreducible and cannot be decomposed into more basic parts."
+
+Wundt, W. (1998b). Outlines of psychology (C.H. Judd, Trans.). Bristol, UK: Thoemmes
+Press (Original work published 1897).
+
+"This sets the stage for discussing the contemporary view of core affect as a basic, universal, and psychologically irreducible property of the mind."
+
 # What is Meant by Calling Emotions Basic
 
 Ekman and Cordaro, 2011
